@@ -1,0 +1,46 @@
+#background {
+	position: fixed;
+	z-index: -99;
+}
+
+.bgimage {
+	min-height: 100%;
+}
+
+#content {
+	margin-top: 80px;
+}
+
+.work_content {
+	float: left; 
+	padding-right: 20px; 
+	padding-bottom: 20px; 
+	padding-top: 23px;
+}
+
+#column_wrap {
+	border: solid 1px white;
+	background: rgba(255, 255, 255, .8);
+	border-radius: 5px;
+}
+
+.opaque {
+	background: rgba(255, 255, 255, .8);
+	border-radius: 5px;
+}
+
+.boxes {
+}
+
+.thumbnail.right-caption > img {
+    float: left;
+    margin-right: 9px;
+}
+
+.thumbnail.right-caption {
+    float: left;
+}
+
+.thumbnail.right-caption > .caption {
+    padding: 4px;
+}
